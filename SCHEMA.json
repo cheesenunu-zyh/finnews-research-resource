@@ -1,0 +1,26 @@
+{
+  "event_key": "event_id",
+  "asset_key": "asset",
+  "evidence_key": "fact_id",
+  "origin": "SEC_NUMERIC_FACTS",
+  "state_origins": [
+    "DETERMINISTIC_NUMERIC_FACT_COMPARISON_NOT_LLM",
+    "REAL_NEW_DEEPSEEK_PUBLIC_NUMERIC_FACT_ANALYSIS_NOT_580_RELABELLING"
+  ],
+  "state_unknowns": "UNKNOWN, NOT_SUPPLIED and missing remain distinct from zero",
+  "price_csv": [
+    "asset",
+    "date",
+    "close",
+    "close_at"
+  ],
+  "target": "close[t+h+1]/close[t+1]-1",
+  "time_fields": [
+    "information_cutoff",
+    "source_available_at",
+    "actual_reconstruction_time",
+    "actual_generated_at"
+  ],
+  "semantic_gold": "HUMAN_GOLD_PENDING",
+  "strict_historical_agent_asof": false
+}

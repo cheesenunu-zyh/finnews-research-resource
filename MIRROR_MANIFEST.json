@@ -1,0 +1,22 @@
+{
+  "repository": "cheesenunu-zyh/finnews-research-resource",
+  "repository_url": "https://github.com/cheesenunu-zyh/finnews-research-resource",
+  "repository_creation": "VERIFIED_IN_LOGGED_IN_GITHUB_UI",
+  "publication": "AWAITING_UPLOAD_VERIFICATION",
+  "layout": "FLAT_UI_UPLOAD_WITHOUT_CHANGING_RELEASE_ARCHIVES",
+  "public_data_scope": "NUMERIC_FACTS_AND_NEW36_AGENT_ANALYSES_ONLY",
+  "old580_news_prose": false,
+  "private_prices_or_labels": false,
+  "credential_files": false,
+  "files": {
+    "DATASET_LICENSE.json": "25e939c00fb4e220689ff109cf6187fa6d056b7bec41efeafdd69d4cb9a4f956",
+    "FIELD_RIGHTS.md": "8a457afd632ee4ba26d36e2e0c191cc31d3de2e09af722c777f92552f8da4366",
+    "finnews-equity-core-v0.1.zip": "64d5c17eec084e1c387d76b022a1f19b9416761f0575517da99acea798ecd864",
+    "LICENSE": "28b755261768915bc5328da48533cd67e6a66ef59afb2cddd593c1e481d2ff24",
+    "QUALITY_SUPPLEMENT_PUBLIC.zip": "9378333dadff9c479e4d0ee25aa8ca89529e887e56e598bfe3c8072b83641e03",
+    "README.md": "942ed1161ceb645a912f396ef79633a1888983284589084646c4587a0f289bee",
+    "SCHEMA.json": "cf5ce2b98bef040434b2ad11d2657f2ed8613a10c51c46aad9a21e2055d59420",
+    "SHA256SUMS": "be2b295b0b92a1e7e44e54ebb601864869bf8a3e350950bd526418494128fe5b",
+    "verify_release.py": "ae8fe8052881f383400abcb15b91025b6b49f279b0be641cd9adaaa9a9febeb5"
+  }
+}
